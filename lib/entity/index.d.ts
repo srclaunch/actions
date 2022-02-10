@@ -1,11 +1,11 @@
 export declare const Entity: {
     Panel: {
-        show: ({ edit, id, model, }: {
-            edit?: boolean | undefined;
-            id?: string | undefined;
-            model: string;
-        }) => void;
         hide: () => void;
+        show: ({ edit, id, model, }: {
+            readonly edit?: boolean | undefined;
+            readonly id?: string | undefined;
+            readonly model: string;
+        }) => void;
     };
 };
 //# sourceMappingURL=index.d.ts.map
