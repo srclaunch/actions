@@ -22,8 +22,6 @@ export default {
     coverage: {
       reporters: [TestReporter.Lcov, TestReporter.JSONSummary],
     },
-    tool: TestTool.Ava,
-    types: true,
     verbose: true,
   },
 };
