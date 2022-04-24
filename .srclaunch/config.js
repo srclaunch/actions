@@ -23,6 +23,7 @@ export default {
       reporters: [TestReporter.Lcov, TestReporter.JSONSummary],
     },
     tool: TestTool.Ava,
+    types: true,
     verbose: true,
   },
 };
