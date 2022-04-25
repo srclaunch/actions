@@ -35,11 +35,11 @@
     "yui": "yarn upgrade-interactive"
   },
   "devDependencies": {
-    "@srclaunch/cli": "^0.1.284",
-    "@srclaunch/dx": "^0.1.43",
-    "@srclaunch/types": "^0.1.98",
-    "@typescript-eslint/eslint-plugin": "^5.20.0",
-    "@typescript-eslint/parser": "^5.20.0",
+    "@srclaunch/cli": "^0.1.286",
+    "@srclaunch/dx": "^0.1.44",
+    "@srclaunch/types": "^0.1.99",
+    "@typescript-eslint/eslint-plugin": "^5.21.0",
+    "@typescript-eslint/parser": "^5.21.0",
     "ava": "^4.2.0",
     "eslint": "^8.14.0",
     "eslint-config-prettier": "^8.5.0",
