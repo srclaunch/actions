@@ -5,7 +5,6 @@ import {
   BuildTool,
   ProjectType,
   TestReporter,
-  TestTool,
 } from '@srclaunch/types';
 
 export default {
